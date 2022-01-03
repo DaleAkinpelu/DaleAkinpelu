@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaleAkinpelu
 - 👀 I’m interested in Video Games, Music, Anime, Web Development, Self-Development, Sports and Exercise
-- 🌱 I’m currently learning Bootstrap V5.0
+- 🌱 I’m currently learning Bootstrap V5.0 and Web Design (Figma)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Akinpeluboladale@gmail.com
 
